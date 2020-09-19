@@ -5,4 +5,6 @@ Mi nombre es Brandon Gomez
 Vivo en Colombia 
 
 Me encanta aprender y a ti?
-Hoy quiero hablar de su viaje de aprendizaje 
+Hoy quiero hablar de su viaje de aprendizaje.
+
+Comenzando por el curso de Git y Github.
